@@ -1,7 +1,7 @@
 # genconnect
 GEN-connect aims at bridging the generation gap between the elderly and the kids while helping the elderly and making kids self-sufficient. Our team belongs to India and we don't see much of an internship cultures among students here. This is us trying to make a difference by motivating and encouraging little kids to work and care for the elderly at the same time.
 
-link to the website: *[GEN-connect](https://aishwary8120.wixsite.com/genconnect) *[LinkedIn](https://www.linkedin.com/in/anushkarjain/) 
+link to the website: *[GEN-connect](https://aishwary8120.wixsite.com/genconnect) 
 
 here's a bit more about our website:
 Tools
